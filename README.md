@@ -1,2 +1,2 @@
-# docker-container-storage-kickstarter
-Docker container storage kick starter 
+# docker-container-storage spin-up guide
+Docker container storage spin-up starter 
